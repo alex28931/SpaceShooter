@@ -52,4 +52,4 @@ A fast-paced 2D space shooter developed in C#, featuring object pooling, a custo
 - Built a standalone 2D collision engine to track and resolve in-game interactions  
 - Applied clean OOP principles for maintainability and system expansion
 
-## 📸 Screenshots / GIFs
+## 🎞️ Gameplay Preview
